@@ -1,4 +1,3 @@
-
 function deleteUser(userId) {
     const token = localStorage.token;
 
